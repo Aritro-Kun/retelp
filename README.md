@@ -1,1 +1,1 @@
-![Logo](retelp_logo.png)
+![Logo](retelplogo.png)
